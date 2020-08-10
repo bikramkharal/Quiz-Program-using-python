@@ -1,0 +1,14 @@
+1. What is answer of this expression, 22 % 3 is?
+options: A.7  B.1  C.0  D.5
+
+2. What is the output of this expression, 3*1**3?
+options: A.27  B.9  C.3  D.1
+
+3. Which of the following will run without errors ?
+options: A.round(45.8)  B.round(6352.898,2,5)  C.round()  D.round(7463.123,2,1)
+
+4. What is the output of “hello”+1+2+3 ?
+options: A.hello6  B.hello  C.Error  D.hello123
+
+5. Suppose list1 is [1, 3, 2], What is list1 * 2 ?
+options: A.[2, 6, 4]  B.[1, 3, 2, 1, 3]  C.[1, 3, 2, 1, 3, 2]  D.[1, 3,  2, 3, 2, 1]
