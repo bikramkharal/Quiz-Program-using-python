@@ -6,7 +6,7 @@ mark = 0
 stu_ans = []
 #mark_list = {}
 key_ans = []
-
+#single line comment 
 auth = open('student_list.txt')
 
 auth_temp = auth.read()
