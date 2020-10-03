@@ -1,3 +1,4 @@
+#getting input from the user
 regnum = input("enter your register number :")
 
 mark = 0
