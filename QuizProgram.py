@@ -48,7 +48,7 @@ if regnum in auth_temp:
         student_mark_list.write(temp+'\n')
         temp_mark = str(mark)
     student_mark_list.write('  ==> Total marks '+temp_mark+' in out of 5 marks\n')
-
+#file opening
     print('\n  ==> Total marks '+temp_mark+' in out of 5 marks')
 
     f_m_list = open('stu_answers.txt','a')
